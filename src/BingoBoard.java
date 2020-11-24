@@ -2,7 +2,7 @@
 /**
  *
  * @author Chan Thongjerm 63130500019
- * @author Panus Ommonkong 63130500080
+ * @author Panus Onmonkong 63130500080
  */
 
 import java.util.ArrayList;
